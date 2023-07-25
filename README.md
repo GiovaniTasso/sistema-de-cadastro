@@ -1,4 +1,5 @@
 # sistema de cadastro
 
-
-npm alguma coisa
+```
+node app.js
+```
